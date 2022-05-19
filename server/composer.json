@@ -1,0 +1,12 @@
+{
+    "name": "fjborquez/dwight-demo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Fjborquez\\DwightDemo\\": "src/Fjborquez/DwightDemo"
+        }
+    },
+    "require": {
+        "fjborquez/dwight": "dev-main"
+    }
+}

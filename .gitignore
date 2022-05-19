@@ -1,0 +1,4 @@
+.vscode
+xdebug/xdebug.log
+server/vendor
+server/composer.lock
